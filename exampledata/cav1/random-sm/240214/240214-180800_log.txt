@@ -1,0 +1,15 @@
+pipeline_start: 18h06m55s535849us
+pipeline_end: 18h06m55s535849us
+prepause: 18h06m55s537850us
+coord_transf_start: 18h06m55s538850us
+x_center_px: 654
+y_center_px: 53
+x_center_um: 25.400000000000006
+y_center_um: -34.7
+x_roi_size_um: 1.2
+y_roi_size_um: 1.2
+mfx_initiate: 18h06m56s749858us
+mfx_end_0: 18h07m59s375396us
+pipeline: aa_pipeline_fake
+xcoord: 300.0
+ycoord: 300.0

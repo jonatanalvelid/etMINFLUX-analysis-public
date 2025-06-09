@@ -1,0 +1,2 @@
+site_rad,inclusion_rad,circle_radii0,circle_radii1,circle_radii2,blob_dist,min_time,split_len_thresh,fit_len_thresh,max_time_lag,max_dt,meanpos_thresh,interval_meanpos,meanslidestd_thresh,slidstd_interval,interval_dist,n_rois,subplot_cols,subplot_rows
+0.2,0.05,0.05,0.1,0.2,0.013,0.03,5,10,0.0005,0.001,0.025,5,0.02,40,50,2,5,3
