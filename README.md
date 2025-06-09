@@ -1,7 +1,7 @@
 # etMINFLUX-analysis
 Analysis code for event-triggered MINFLUX data, including brief example data. Supporting the method implementation and findings in the preprint/paper "Event-triggered MINFLUX microscopy: smart microscopy to catch and follow rare events", Jonatan Alvelid, Agnes Koerfer, Christian Eggeling, bioRxiv (2025). ADD DOI HERE
 
-An example minimal dataset for testing the analysis scripts is provided in this repository, while the full dataset supporting the findings of the manuscript (on which the same set of analysis scripts can be applied) can be found here: doi.org/10.5281/zenodo.15608840
+An example minimal dataset for testing the analysis scripts is provided in this repository, while the full dataset supporting the findings of the manuscript (on which the same set of analysis scripts can be applied) can be found here: [doi.org/10.5281/zenodo.15608840](doi.org/10.5281/zenodo.15608840).
 
 The repository consists of Jupyter notebooks and python modules.
 
