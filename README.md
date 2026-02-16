@@ -12,10 +12,12 @@ utility_functions - Convenience scripts for translating data or getting acquisit
 
 scan_shift - Jupyter notebooks for fitting coordinate shifts to use for compensate confocal-MINFLUX data shifts.
 
-metadata - Jupyter notebooks for getting metadata from experimenst - pipeline runtmes, pipeline parameter values, MINFLUX localizations metadata distributions.
+event_inspection - Jupyter notebooks for plotting the confocal event detection, using the confocal data and metadata information on the timing, to produce plots that allows sorting and validation of event detections for dyn1- and gag-like experiments. 
+
+metadata - Jupyter notebooks for getting metadata from experiments - pipeline runtmes, pipeline parameter values, MINFLUX localizations metadata distributions.
 
 cav1_analysis - Jupyter notebooks for running analysis and plotting analysis results, in ways presented in the connected manuscript, for cav1 events example data. With folder changes it can be applied to the full dataset separately provided in Zenodo. 
 
-dyn1_analysis - Jupyter notebooks for running analysis and plotting analysis results, in ways presented in the connected manuscript, for dyn1 events example data. With folder changes it can be applied to the full dataset separately provided in Zenodo. 
+dyn1_analysis - Jupyter notebooks for running analysis and plotting analysis results, in ways presented in the connected manuscript, for dyn1 events example data. With folder changes it can be applied to the full dataset separately provided in Zenodo. Applications on the seconds-scale similar dyn1 should be directly analysable and plottable with the scripts provided here.
 
-gag_analysis - Jupyter notebooks for running analysis and plotting analysis results, in ways presented in the connected manuscript, for gag events example data. With folder changes it can be applied to the full dataset separately provided in Zenodo. 
+gag_analysis - Jupyter notebooks for running analysis and plotting analysis results, in ways presented in the connected manuscript, for gag events example data. With folder changes it can be applied to the full dataset separately provided in Zenodo. Applications on the minutes-scale similar gag should be directly analysable and plottable with the scripts provided here.
